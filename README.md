@@ -18,6 +18,8 @@ make bonus
 
 ・作成されたアーカイブファイルを同時にコンパイル
 
+Example:
+
 ```bash
 gcc hoge.c libft.a
 ```
